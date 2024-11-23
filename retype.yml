@@ -23,7 +23,7 @@ toc:
 
 # Start in "Pro Mode" trial
 start:
-  pro: true
+  pro: false
 
 
 # -------------------
@@ -35,9 +35,8 @@ output: .retype
 url: retype.com
 
 branding:
-  logo: /static/retype-logo.svg
-  logoDark: /static/retype-logo-dark.svg
-  label: v3.6
+  title: Interview Playbook
+  label: v1.0
 
 meta:
   title: " - Write On! with Retype"
@@ -54,7 +53,7 @@ links:
     icon: heart
 
   - text: Issues
-    link: https://github.com/retypeapp/retype/issues
+    link: https://github.com/UpadhyayAmit/interview-playbook/issues
     icon: comment-discussion
     target: blank
 
@@ -70,10 +69,7 @@ data:
 
 footer:
   copyright: © Copyright {{ year }} – [Retype](https://retype.com/) – All rights reserved
-  links:
-    - text: About
-      link: about.md
-      icon: question
+  links:  
 
     - text: License
       link: license.md

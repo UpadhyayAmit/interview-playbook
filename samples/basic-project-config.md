@@ -11,7 +11,7 @@ input: .
 output: .retype
 url: example.com # Add your website here
 branding:
-  title: Project Name
+  title: Interview Playbook
   label: Docs
 poweredByRetype: true # Set to false to remove the Powered by Retype branding.
                       # A Retype Pro license is required.
