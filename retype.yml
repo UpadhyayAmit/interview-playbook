@@ -23,7 +23,7 @@ toc:
 
 # Start in "Pro Mode" trial
 start:
-  pro: false
+  pro: true
 
 
 # -------------------
